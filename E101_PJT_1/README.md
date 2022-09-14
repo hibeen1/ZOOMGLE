@@ -1,59 +1,89 @@
-# 웹/모바일(웹 기술) 스켈레톤 프로젝트
+# ZOOMGLE
 
-<!-- 필수 항목 -->
+## 👨‍💻 2022 SSAFY 2학기 부울경 1반 1팀 공통 프로젝트
 
-## 카테고리
+> WebRTC와 WebSocket기술을 사용한 비대면 보드 게임 프로젝트 입니다.
+> 
+> 
+> [https://youtu.be/74S-thgs0Yg](https://youtu.be/74S-thgs0Yg)
+> 
 
-| Application                       | Domain                                | Language                         | Framework                            |
-| --------------------------------- | ------------------------------------- | -------------------------------- | ------------------------------------ |
-| :white_check_mark: Desktop Web    | :black_square_button: AI              | :white_check_mark: JavaScript    | :white_check_mark: Vue.js            |
-| :white_check_mark: Mobile Web     | :black_square_button: Big Data        | :black_square_button: TypeScript | :black_square_button: React          |
-| :white_check_mark: Responsive Web | :black_square_button: Blockchain      | :black_square_button: C/C++      | :black_square_button: Angular        |
-| :black_square_button: Android App | :black_square_button: IoT             | :black_square_button: C#         | :black_square_button: Node.js        |
-| :black_square_button: iOS App     | :black_square_button: AR/VR/Metaverse | :white_check_mark: Python        | :white_check_mark: Flask/Django      |
-| :black_square_button: Desktop App | :black_square_button: Game            | :white_check_mark: Java          | :white_check_mark: Spring/Springboot |
-|                                   |                                       | :black_square_button: Kotlin     |                                      |
+---
 
-<!-- 필수 항목 -->
+![https://media.giphy.com/media/3o7TKDJBonanzESryE/giphy.gif](https://media.giphy.com/media/3o7TKDJBonanzESryE/giphy.gif)
 
-## 프로젝트 소개
+# $\substack {\colorbox{#FFA384}{\hspace{6em}}\\[-1em] \textsf{\large{MEMBERS}}}$
 
-* 프로젝트명: 그룹 비디오 컨퍼런스 서비스
-* 서비스 특징: 웹/모바일(웹 기술) 프로젝트를 위한 스켈레톤 프로젝트
-* 주요 기능
-  - 회원 관리
-  - 화상 미팅룸
-  - 그룹 채팅
-* 주요 기술
-  - WebRTC
-  - WebSocket
-  - JWT Authentication
-  - REST API
-* 참조 리소스
-  * Vuetify: 디자인 전반 적용
-  * Vue Argon Design System: 디자인 전반 적용
-  * Vue Black Dashboard Pro(유료): 캘린더 컴포넌트 사용
-  * AR Core: 구글에서 제공하는 AR 지원 라이브러리. 이미지 인식 및 오버레이 영상에 활용
-  * Color Thief: 이미지 색상 추출 라이브러리. 커버 사진 색상 추출 및 배경 변경에 활용
-  * Animation.css: CSS 애니메이션 지원 라이브러리. 메인 페이지 진입 애니메이션에 활용
-* 배포 환경
-  - URL: // 웹 서비스, 랜딩 페이지, 프로젝트 소개 등의 배포 URL 기입
-  - 테스트 계정: // 로그인이 필요한 경우, 사용 가능한 테스트 계정(ID/PW) 기입
+[**민경대 (팀장) - BackEnd Engineer** (1)](https://www.notion.so/BackEnd-Engineer-1-7599ecdca06d4fcbbf06841901a8be67)
 
-<!-- 자유 양식 -->
+[**서광석 - BackEnd Engineer** (1)](https://www.notion.so/BackEnd-Engineer-1-24ae288bfee040bf9be33a2e83869683)
 
-## 팀 소개
+[**조찬홍 - BackEnd Engineer** (1)](https://www.notion.so/BackEnd-Engineer-1-7587f1ff8cde4cf4bdb93dc954bee382)
 
-* 김ㅇㅇ: 팀장, 프론트엔드 개발
-* 이ㅇㅇ: 부팀장, 기획 및 와이어프레임 작성, 프론트엔드 개발
-* 박ㅇㅇ: 백엔드 개발 및 QA 담당
-* 홍ㅇㅇ: 백엔드 개발, Swagger API 문서 관리
-* 전ㅇㅇ: 코드 리뷰 및 인프라 담당, CI/CD, HTTPS, Docker 구성
+[**황인빈 - BackEnd Engineer** (1)](https://www.notion.so/BackEnd-Engineer-1-497bd0e9690f48d5ad4c4ff1e4462254)
 
-<!-- 자유 양식 -->
+[**김혜라 - FrontEnd Engineer** (1)](https://www.notion.so/FrontEnd-Engineer-1-879cdfe35aed4084baba7c45fdb08ac8)
 
-## 프로젝트 상세 설명
+[**김동욱 - FrontEnd Engineer** (1)](https://www.notion.so/FrontEnd-Engineer-1-099fb942ba0b4cc891de0a0fb38992b7)
 
-// 개발 환경, 기술 스택, 시스템 구성도, ERD, 기능 상세 설명 등
+---
 
-안녕
+![https://media.giphy.com/media/3orifaQEOagjYJ1EXe/giphy.gif](https://media.giphy.com/media/3orifaQEOagjYJ1EXe/giphy.gif)
+
+# $\substack {\colorbox{#FFA384}{\hspace{10.5em}}\\[-1em] \textsf{\large{DOCUMENTATION}}}$
+
+🌐 [회의록(구글드라이브)](https://drive.google.com/drive/folders/1eGN4sxA8bT_D4EkyEddgCh-O11Dh32Qe)
+
+🌐 [Figma](https://www.figma.com/file/4oDS1uge0sg4chrb3RPW1x/common_E101?node-id=0%3A1)
+
+[API Docs (1)](https://www.notion.so/API-Docs-1-c7365eb0f17443a68265df28180ebf09)
+
+[요구사항/기능 정의서 (1)](https://www.notion.so/a90e6fe28da042df90e80fb080da124f)
+
+[ERD (1)](https://www.notion.so/ERD-1-f8cb5e1b38414fe3879d8ef1fcd93e05)
+
+[Reference (1)](https://www.notion.so/Reference-1-db2c34649652406aa408148033536a53)
+
+---
+
+![https://c.tenor.com/z20mswLxHyEAAAAC/technology.gif](https://c.tenor.com/z20mswLxHyEAAAAC/technology.gif)
+
+# $\substack {\colorbox{#FFA384}{\hspace{3em}}\\[-1em] \textsf{\large{TECH}}}$
+
+### Front-End
+
+- React, Redux, Redux-Saga, JavaScript, Styled components
+
+### Back-End
+
+- Java, SpringBoot, JPA, MySQL
+
+### Server
+
+- AWS, Ubuntu, Nginx
+
+### Framework & Library
+
+- Openvidu(WebRTC), AWS S3, Html2Canvas
+
+![Untitled](ZOOMGLE%20ea5d887300354c188bc45e49535b9596/Untitled.png)
+
+---
+
+![https://media1.giphy.com/media/Th8qXVFFVzYVwYLa7T/giphy.gif?cid=790b76111531d79b53a7f59a0b2edd292653bcf170bf1474&rid=giphy.gif&ct=g](https://media1.giphy.com/media/Th8qXVFFVzYVwYLa7T/giphy.gif?cid=790b76111531d79b53a7f59a0b2edd292653bcf170bf1474&rid=giphy.gif&ct=g)
+
+# $\substack {\colorbox{#FFA384}{\hspace{10em}}\\[-1em] \textsf{\large{ANNOUNCEMENT}}}$
+
+[8/1 중간 발표 PPT (1)](https://www.notion.so/8-1-PPT-1-f35204b9c9474f95a8e4998022357501)
+
+[UCC 시나리오 (1)](https://www.notion.so/UCC-1-af0c6aa5dd644ee6a63d6c3a901c7001)
+
+[8/19 최종 발표 PPT (1)](https://www.notion.so/8-19-PPT-1-28c147d5864d47a4afbc8ceaa3ef2c9c)
+
+---
+
+![https://c.tenor.com/Ay19-AbBCfIAAAAC/hangover-math.gif](https://c.tenor.com/Ay19-AbBCfIAAAAC/hangover-math.gif)
+
+# $\substack {\colorbox{#FFA384}{\hspace{11em}}\\[-1em] \textsf{\large{PROBLEM SOLVING}}}$
+
+[문제해결 (1)](https://www.notion.so/b8d67c9cefae459993667f5a2c73581d)
