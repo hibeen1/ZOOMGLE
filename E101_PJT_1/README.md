@@ -12,7 +12,7 @@
 
 ![https://media.giphy.com/media/3o7TKDJBonanzESryE/giphy.gif](https://media.giphy.com/media/3o7TKDJBonanzESryE/giphy.gif)
 
-# \textsf{\large{MEMBERS}}}$
+## MEMBERS
 
 [**민경대 (팀장) - BackEnd Engineer** (1)](https://www.notion.so/BackEnd-Engineer-1-7599ecdca06d4fcbbf06841901a8be67)
 
@@ -30,7 +30,7 @@
 
 ![https://media.giphy.com/media/3orifaQEOagjYJ1EXe/giphy.gif](https://media.giphy.com/media/3orifaQEOagjYJ1EXe/giphy.gif)
 
-# \textsf{\large{DOCUMENTATION}}}$
+## DOCUMENTATION
 
 🌐 [회의록(구글드라이브)](https://drive.google.com/drive/folders/1eGN4sxA8bT_D4EkyEddgCh-O11Dh32Qe)
 
@@ -48,7 +48,7 @@
 
 ![https://c.tenor.com/z20mswLxHyEAAAAC/technology.gif](https://c.tenor.com/z20mswLxHyEAAAAC/technology.gif)
 
-# $\substack {\colorbox{#FFA384}{\hspace{3em}}\\[-1em] \textsf{\large{TECH}}}$
+## TECH
 
 ### Front-End
 
@@ -72,7 +72,7 @@
 
 ![https://media1.giphy.com/media/Th8qXVFFVzYVwYLa7T/giphy.gif?cid=790b76111531d79b53a7f59a0b2edd292653bcf170bf1474&rid=giphy.gif&ct=g](https://media1.giphy.com/media/Th8qXVFFVzYVwYLa7T/giphy.gif?cid=790b76111531d79b53a7f59a0b2edd292653bcf170bf1474&rid=giphy.gif&ct=g)
 
-# $\substack {\colorbox{#FFA384}{\hspace{10em}}\\[-1em] \textsf{\large{ANNOUNCEMENT}}}$
+## ANNOUNCEMENT
 
 [8/1 중간 발표 PPT (1)](https://www.notion.so/8-1-PPT-1-f35204b9c9474f95a8e4998022357501)
 
@@ -84,6 +84,6 @@
 
 ![https://c.tenor.com/Ay19-AbBCfIAAAAC/hangover-math.gif](https://c.tenor.com/Ay19-AbBCfIAAAAC/hangover-math.gif)
 
-# $\substack \textsf{\large{PROBLEM SOLVING}}}$
+## PROBLEM SOLVING
 
 [문제해결 (1)](https://www.notion.so/b8d67c9cefae459993667f5a2c73581d)
