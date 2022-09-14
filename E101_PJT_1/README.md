@@ -12,7 +12,7 @@
 
 ![https://media.giphy.com/media/3o7TKDJBonanzESryE/giphy.gif](https://media.giphy.com/media/3o7TKDJBonanzESryE/giphy.gif)
 
-# $\substack {\colorbox{#FFA384}{\hspace{6em}}\\[-1em] \textsf{\large{MEMBERS}}}$
+# \textsf{\large{MEMBERS}}}$
 
 [**민경대 (팀장) - BackEnd Engineer** (1)](https://www.notion.so/BackEnd-Engineer-1-7599ecdca06d4fcbbf06841901a8be67)
 
@@ -30,7 +30,7 @@
 
 ![https://media.giphy.com/media/3orifaQEOagjYJ1EXe/giphy.gif](https://media.giphy.com/media/3orifaQEOagjYJ1EXe/giphy.gif)
 
-# $\substack {\colorbox{#FFA384}{\hspace{10.5em}}\\[-1em] \textsf{\large{DOCUMENTATION}}}$
+# \textsf{\large{DOCUMENTATION}}}$
 
 🌐 [회의록(구글드라이브)](https://drive.google.com/drive/folders/1eGN4sxA8bT_D4EkyEddgCh-O11Dh32Qe)
 
