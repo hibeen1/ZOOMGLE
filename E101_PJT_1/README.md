@@ -84,6 +84,6 @@
 
 ![https://c.tenor.com/Ay19-AbBCfIAAAAC/hangover-math.gif](https://c.tenor.com/Ay19-AbBCfIAAAAC/hangover-math.gif)
 
-# $\substack {\colorbox{#FFA384}{\hspace{11em}}\\[-1em] \textsf{\large{PROBLEM SOLVING}}}$
+# $\substack \textsf{\large{PROBLEM SOLVING}}}$
 
 [문제해결 (1)](https://www.notion.so/b8d67c9cefae459993667f5a2c73581d)
