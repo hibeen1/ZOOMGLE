@@ -1,7 +1,5 @@
 # ZOOMGLE
 
-# ZOOMGLE
-
 ## 👨‍💻 2022 SSAFY 2학기 부울경 1반 1팀 공통 프로젝트
 
 > WebRTC와 WebSocket기술을 사용한 비대면 보드 게임 프로젝트 입니다.
